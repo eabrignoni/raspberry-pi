@@ -10,7 +10,7 @@
 - Use of `.env` file.
 - SQLAlchemy integration for database abstraction.
 
-## How to stat the project?
+## How to start the project?
 
 There is an example API working with an example database. All your application code should be written inside the `./src/` folder.
 
